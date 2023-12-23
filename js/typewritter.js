@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Pixl Kidz is a collection of 777 Pixelated Kids on the INJ blockchain, we're looking to foster a community of WEB3 enthusiasts and on chain gamers to spread the word of injective through mass adoption.We are a complete free mint and will have playable in-game characters, our sustainability doesn't lie by our floor price but by our community."];
+const textArray = ["Pixl Kidz is a collection of 777 Pixelated Kids on the INJ blockchain, we're looking to foster a community of WEB3 enthusiasts and on chain gamers to spread the word of injective through mass adoption.We will have playable in-game characters, our sustainability doesn't lie by our floor price but by our community."];
 const typingDelay = 100;
 const erasingDelay = 0.5;
 const newTextDelay = 200; // Delay between current and next text
